@@ -2,6 +2,8 @@
 
 > AI-era terminal · keyboard-first · synced across every machine.
 
+![Flowterm demo](./assets/mockup.gif)
+
 **Flowterm wires you into Claude Code, Codex, or any AI coding CLI on any host in one keystroke.** It deploys your Clash and WireGuard proxies for you. It resumes every prompt and session exactly where you left off. Trackpad optional.
 
 - Website: <https://flowterm.ai>
