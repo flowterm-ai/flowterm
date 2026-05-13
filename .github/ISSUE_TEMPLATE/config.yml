@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security issue
+    url: mailto:support@flowterm.ai
+    about: Please email us instead of filing a public issue. We respond within 2 business days.
+  - name: Billing, refunds, account questions
+    url: https://flowterm.ai/submit-ticket
+    about: Use the web ticket form for anything tied to your account.
+  - name: General questions & support
+    url: mailto:support@flowterm.ai
+    about: Email support@flowterm.ai — happy to help.
